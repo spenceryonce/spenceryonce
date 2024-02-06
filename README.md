@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Super Secret Stuff](/)  
   
 
-- 🌱 I’m currently learning Angular and React Native  
+- 🌱 I’m currently learning WebGPU and React Native  
   
 
 - ❓ Ask me about anything related to glsl or shaders  
